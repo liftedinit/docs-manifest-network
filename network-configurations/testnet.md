@@ -1,5 +1,7 @@
 # Testnet
 
+The Manifest Testnet is a dedicated testing environment designed for safely experimenting with validator setup, transaction handling, and network upgrades before deploying to the mainnet. On this page, you will find important information about the Manifest Testnet configuration, including the various testnet endpoints, the testnet genesis file, and the testnet upgrade schedule.
+
 ## Endpoints
 
 {% include "../.gitbook/includes/testnet-endpoints.md" %}
