@@ -18,6 +18,8 @@
 ## Resources
 
 * [FAQ](resources/faq.md)
+* [Manifest AI](https://manifestai.org)
+* [The Lifted Initiative](https://liftedinit.org)
 
 ## Alberto Wallet
 
