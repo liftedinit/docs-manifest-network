@@ -1,18 +1,33 @@
 # Table of contents
 
-* [Overview](README.md)
-* [Official Links](official-links.md)
+* [Introduction](README.md)
+* [Network Overview](network-overview.md)
+
+## Public Endpoints
+
+* [Mainnet Endpoints](public-endpoints/mainnet-endpoints.md)
+* [Testnet Endpoints](public-endpoints/testnet-endpoints.md)
+
+## Becoming a Validator
+
+* [Eligibility Criterias](becoming-a-validator/eligibility-criterias.md)
+* [Application Process](becoming-a-validator/application-process.md)
+* [Validator Responsibilities](becoming-a-validator/validator-responsibilities.md)
+* [Technical Setup Guide](becoming-a-validator/technical-setup-guide.md)
+
+## Resources
+
+* [FAQ](resources/faq.md)
 
 ## Alberto Wallet
 
-* [Wallet Guide](alberto-wallet/wallet-guide.md)
-* [Key Management](alberto-wallet/key-management.md)
+* [Mainnet Wallet](https://wallet.liftedinit.app)
+* [Testnet Wallet](https://wallet.liftedinit.tech)
 
-## Validators
+## Socials
 
-* [Public Endpoints](validators/public-endpoints.md)
-* [Become a Validator](validators/become-a-validator.md)
-
-## Node Program
-
-* [Become a Node Provider](node-program/become-a-node-provider.md)
+* [Discord](https://discord.gg/manifestai)
+* [GitHub](https://github.com/liftedinit/)
+* [X](https://x.com/ManifestAIs)
+* [Medium](https://medium.com/@TheLiftedInitiative)
+* [LinkedIn](https://www.linkedin.com/company/liftedinit/)
