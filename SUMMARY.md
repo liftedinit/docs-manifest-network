@@ -3,15 +3,10 @@
 * [Introduction](README.md)
 * [Network Overview](network-overview.md)
 
-## Public Endpoints
+## Network Configurations
 
-* [Mainnet Endpoints](public-endpoints/mainnet-endpoints.md)
-* [Testnet Endpoints](public-endpoints/testnet-endpoints.md)
-
-## Network Upgrades
-
-* [Mainnet Upgrades](network-upgrades/mainnet-upgrades.md)
-* [Testnet Upgrades](network-upgrades/testnet-upgrades.md)
+* [Mainnet](network-configurations/mainnet.md)
+* [Testnet](network-configurations/testnet.md)
 
 ## Becoming a Validator
 
