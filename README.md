@@ -1,6 +1,13 @@
 # Introduction
 
-Welcome to Manifest, a decentralized platform that combines the enterprise-grade strength and reliability of Web2 with the decentralized freedom and security of Web3. Our mission is to harness these combined strengths to create a better world for everyone.
+The digital world is dominated by monopolies of the cloud, controlling access, pricing, and secretly mining your data and IP. The era of digital feudalism has introduced systemic risks such as policies that prioritize control over user data undermines the drive to innovate and weakens the public understanding of their own data resources, rights and economic potential.
+
+At Manifest, we resist this trend. We're building the Sovereign Cloud—a secure, scalable, and decentralized infrastructure layer purpose-built to return control to developers, organizations, and communities. We aim to provide users with full ownership of their data, the freedom of being compute-independent, and infrastructure-level control of the future of AI and digital systems.
+
+Manifest unites the reliability and performance of modern cloud platforms with the user empowerment and transparency of Web3. We offer a unified interface for the management of bare metal compute, object and disk storage, tokenization, mutable and immutable data, and enterprise-ready Kubernetes deployments—fully integrated with Web2 and blockchain ecosystems.
+
+\
+
 
 **Key Features**
 
