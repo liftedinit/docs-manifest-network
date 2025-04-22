@@ -6,10 +6,6 @@ Neighborhoods are similar in function to “accounts” or “groups” in tradi
 
 Key advantages of Neighborhoods include:
 
-* **Tailored Governance:** Implement custom rules, policies, and operational controls over your infrastructure slice.\
-  \
-
-* **Optimized Performance:** Place nodes geographically close for low-latency needs, or spread them across regions for redundancy and resilience.\
-  \
-
+* **Tailored Governance:** Implement custom rules, policies, and operational controls over your infrastructure slice.
+* **Optimized Performance:** Place nodes geographically close for low-latency needs, or spread them across regions for redundancy and resilience.
 * **Efficient Resource Allocation:** Allocate compute, storage, and services according to project, client, or workload-specific demands.

@@ -1,3 +1,7 @@
+---
+icon: link
+---
+
 # Useful Links
 
 * Manifest Network Website:[ https://manifestai.org/](https://manifestai.org/)

@@ -6,9 +6,6 @@ At Manifest, we resist this trend. We're building the Sovereign Cloud—a secure
 
 Manifest unites the reliability and performance of modern cloud platforms with the user empowerment and transparency of Web3. We offer a unified interface for the management of bare metal compute, object and disk storage, tokenization, mutable and immutable data, and enterprise-ready Kubernetes deployments—fully integrated with Web2 and blockchain ecosystems.
 
-\
-
-
 **Key Features**
 
 * **Privacy-First Infrastructure**: Access decentralized infrastructure, industry-leading GPUs, enterprise-grade compute, blockchain-secured storage, managed cloud services, and cutting-edge tools to reliably build, train, optimize, and deploy your AI applications securely.

@@ -11,7 +11,4 @@ Manifest is purpose-built for the AI era, offering unique advantages for develop
 * Customizable & Secure Environments: Configure abstracted compute, storage, and cryptographic environments tailored to the specific needs of your AI workloads.
 * Decentralized AI Governance: Facilitate decentralized ownership and control over AI models and agents, fostering a more ethical and distributed AI future, countering the trend of AI monopolies.
 
-\
-
-
 The builders of the Manifest Network believe that AI is a turning point for humanity and intend to do everything to steward the technology towards positive outcomes for our society.
