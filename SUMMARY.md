@@ -2,21 +2,32 @@
 
 * [Introduction](README.md)
 * [Network Overview](network-overview.md)
+* [The Control Triad](the-control-triad.md)
+
+## Technological Overview: The Architecture of Sovereignty
+
+* [Compute Node overview](technological-overview-the-architecture-of-sovereignty/compute-node-overview.md)
+* [Real time Monitoring](technological-overview-the-architecture-of-sovereignty/real-time-monitoring.md)
+* [Validator Nodes](technological-overview-the-architecture-of-sovereignty/validator-nodes.md)
+* [Neighborhoods: Customization, Control, and Federated Governance](technological-overview-the-architecture-of-sovereignty/neighborhoods-customization-control-and-federated-governance.md)
+* [Blockchain Architecture](technological-overview-the-architecture-of-sovereignty/blockchain-architecture.md)
+
+## Core Offerings
+
+* [Services](core-offerings/services.md)
+
+***
+
+* [Manifest AI](manifest-ai.md)
 
 ## Network Configurations
 
 * [Mainnet](network-configurations/mainnet.md)
 * [Testnet](network-configurations/testnet.md)
 
-## Becoming a Validator
-
-* [Eligibility Criterias](becoming-a-validator/eligibility-criterias.md)
-* [Application Process](becoming-a-validator/application-process.md)
-* [Validator Responsibilities](becoming-a-validator/validator-responsibilities.md)
-* [Technical Setup Guide](becoming-a-validator/technical-setup-guide.md)
-
 ## Resources
 
+* [Useful Links](resources/useful-links.md)
 * [FAQ](resources/faq.md)
 * [Manifest AI](https://manifestai.org)
 * [The Lifted Initiative](https://liftedinit.org)
@@ -33,3 +44,5 @@
 * [X](https://x.com/ManifestAIs)
 * [Medium](https://medium.com/@TheLiftedInitiative)
 * [LinkedIn](https://www.linkedin.com/company/liftedinit/)
+
+## Appendix

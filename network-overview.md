@@ -17,3 +17,9 @@ Manifest's network offers a comprehensive suite of Decentralized Web Services (D
 * **Kubernetes Automation**: Streamlined deployment and management of decentralized applications using Kubernetes.​
 
 These modules collectively empower developers and organizations to build, train, optimize, and deploy AI applications securely on a decentralized network. ​
+
+#### Data and Compute Sovereignty and Privacy: Your Data, Your Rules <a href="#docs-internal-guid-7618f17c-7fff-ca32-70a9-bd6e3cdaa806" id="docs-internal-guid-7618f17c-7fff-ca32-70a9-bd6e3cdaa806"></a>
+
+Data Sovereignty isn't a feature on Manifest; it's a fundamental right. Manifest ensures you retain absolute control and ownership. Your data, your models, your IP remain exclusively yours.
+
+We explicitly reject the data exploitation practices common among big tech companies which are currently trying to build AI models with your data..
