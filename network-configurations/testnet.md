@@ -10,6 +10,8 @@ The Manifest Testnet is a dedicated testing environment designed for safely expe
 
 [https://nodes.liftedinit.tech/manifest/testnet/rpc/genesis?](https://nodes.liftedinit.tech/manifest/testnet/rpc/genesis?)
 
+Network initialized with [manifest-ledger v0.0.1-alpha.16](https://github.com/liftedinit/manifest-ledger/releases/tag/v0.0.1-alpha.16).
+
 ## Upgrades
 
 {% include "../.gitbook/includes/testnet-upgrades.md" %}
