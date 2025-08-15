@@ -8,7 +8,7 @@ The Manifest Mainnet is the production environment where live transactions, netw
 
 ## Genesis
 
-[https://nodes.liftedinit.app/manifest/rpc/genesis?](https://nodes.liftedinit.app/manifest/rpc/genesis?)
+[https://nodes.manifest.network/manifest/rpc/genesis?](https://nodes.manifest.network/manifest/rpc/genesis?)
 
 Network initialized with [manifest-ledger v1.0.3](https://github.com/liftedinit/manifest-ledger/releases/tag/v1.0.3).
 

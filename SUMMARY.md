@@ -29,18 +29,18 @@
 
 * [Useful Links](resources/useful-links.md)
 * [FAQ](resources/faq.md)
-* [Manifest AI](https://manifestai.org)
+* [Manifest Network](https://manifestai.org)
 * [The Lifted Initiative](https://liftedinit.org)
 
 ## Alberto Wallet
 
-* [Mainnet Wallet](https://wallet.liftedinit.app)
+* [Mainnet Wallet](https://wallet.manifest.network/)
 * [Testnet Wallet](https://wallet.liftedinit.tech)
 
 ## Socials
 
 * [Discord](https://discord.gg/manifestai)
-* [GitHub](https://github.com/liftedinit/)
+* [GitHub](https://github.com/manifest-network)
 * [X](https://x.com/ManifestAIs)
 * [Medium](https://medium.com/@themanifestnetwork)
 * [LinkedIn](https://www.linkedin.com/company/the-manifest-network/)
